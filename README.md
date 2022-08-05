@@ -42,7 +42,8 @@ This repo has already been refactored locally.
 ## Screenshot
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/104780360/183018048-dc2160c1-2c1e-49b3-95b7-ae02841272a4.png">
 <br>
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/104780360/183018106-8d9afa72-f63e-4800-8de3-7a123a1204d2.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/104780360/183018394-c5febb75-ccbb-4885-8d77-feb8506838a4.png">
+
 
 
 
